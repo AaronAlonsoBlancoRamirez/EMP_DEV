@@ -1,0 +1,16 @@
+/* src/styles.css */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  input {
+    margin: 10px 0;
+    padding: 8px;
+  }
+  
+  button {
+    padding: 10px;
+  }
